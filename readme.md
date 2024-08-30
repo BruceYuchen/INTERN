@@ -2,6 +2,8 @@
 
 This project provides a set of tools for video processing, object detection, and tracking using computer vision techniques. It utilizes the YOLOv8 model via Roboflow for object detection and implements custom tracking and counting logic.
 
+Test materials and sample output https://drive.google.com/drive/folders/18798dKe19lq8UCLTXAh71TpWarGln7oY?usp=share_link
+
 ## Table of Contents
 
 1. [Features](#features)
